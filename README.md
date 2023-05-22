@@ -88,6 +88,42 @@ The primary purpose of the z-axis top cover is to prevent dust and debris from s
 #### Motor :
 motor is help to movement of the print head along x,y,z axes.
 
+### Complete Assembly
+
+![complete](https://github.com/LATHIKESHWARAN/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393556/fff27d91-565f-44e0-809f-21fd45857714)
+
+#### Frame :
+rigid structure that holds all the other components of the printer
+
+#### Y-Axis assembly :
+
+The Y-axis is responsible for moving the print bed back and forth along the horizontal axis.
+
+#### Z-Axis Assembly :
+
+The Z-axis is responsible for moving the print head up and down along the vertical axis.
+
+#### X-Axis Assembly :
+
+The X-axis is responsible for moving the print head back and forth along the horizontal axis.
+
+#### SMPS :
+
+convert ac to dc current.
+
+#### LCD :
+
+LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
+
+#### Spool Holder :
+
+It holds spool
+
+#### Spool :
+
+A spool refers to a roll of filament that is used as the printing material for the 3D printer. 
+ 
+
 ### Playing with Axes
 ![playing-with-axes](https://github.com/LATHIKESHWARAN/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/119393556/21df156b-2576-4c41-8018-5238143cffd8)
 
